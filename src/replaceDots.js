@@ -1,7 +1,7 @@
 class ReplaceDots {
     
     replaceDots(str) {
-        return str;
+        return str.replace('.', '-');
     }
 }
   
