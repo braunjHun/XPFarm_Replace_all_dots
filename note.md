@@ -51,12 +51,13 @@ String str will never be null.
     * Plan:
         * ✔ add next test case to test.js
         * ✔ cover third case
-        * 🚧 check for possible refactoring
-        * add next test case to test.js
+        * ✔  check for possible refactoring
+        * 🚧 add next test case to test.js
         * cover third case
         * check for possible refactoring
     * Commit log:
         1. after RED
         1. after GREEN
+        1. after Refactor
     * Comment:
         

@@ -6,9 +6,9 @@ class ReplaceDots {
         let retValue = ''; 
         for (let i=0;i<strArray.length; i++) {
           if ( i>0 ){
-            retValue = retValue + "-";
+            retValue += "-";
           }
-          retValue = retValue + strArray[i];
+          retValue += strArray[i];
         }
         return retValue;
     }
