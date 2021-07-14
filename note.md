@@ -19,14 +19,17 @@ String str will never be null.
 * function: replaceDots
     * input: string
     * output: string
-
+### Legend
+ ✔ - Ready
+ 🚧- in progress
+ 📃- todo
 ## Pomodoro
 1. Pomodoro session:
     * Plan:
-        * Create note.md and add general information
-        * plan first pomodoro activities
-        * create test.js and write first test case
-        * cover the first test case with implementation
+        * ✔ Create note.md and add general information 
+        * ✔ plan first pomodoro activities
+        * ✔ create test.js and write first test case
+        * 🚧 cover the first test case with implementation
         * check for possible refactoring
         * add next test case to test.js
         * cover second case
