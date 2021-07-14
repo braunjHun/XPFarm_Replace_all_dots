@@ -5,4 +5,8 @@ describe('Test Replace-Dots functions', () => {
     const replaceDots = new ReplaceDots();
     expect(replaceDots.replaceDots("This is a test!")).toBe("This is a test!");
   });
+  it('Input with one dot:', () => {
+    const replaceDots = new ReplaceDots();
+    expect(replaceDots.replaceDots("This.is a test!")).toBe("This-is a test!");
+  });
 });

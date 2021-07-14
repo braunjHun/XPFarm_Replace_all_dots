@@ -37,10 +37,11 @@ String str will never be null.
     * Plan:
         * ✔ cover the first test case with implementation
         * ✔ check for possible refactoring
-        * 🚧 add next test case to test.js
-        * cover second case
+        * ✔ add next test case to test.js
+        * 🚧 cover second case
         * check for possible refactoring
     * Commit log:
         1. after GREEN
         1. after Refactor
+        1. after RED
    
