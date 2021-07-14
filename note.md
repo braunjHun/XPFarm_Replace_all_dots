@@ -39,10 +39,22 @@ String str will never be null.
         * ✔ check for possible refactoring
         * ✔ add next test case to test.js
         * ✔ cover second case
-        * 🚧 check for possible refactoring
+        * ✔ check for possible refactoring
     * Commit log:
         1. after GREEN
         1. after Refactor
         1. after RED
         1. after GREEN
+        1. after Refactor
+    * Comment: 9 min left, I will plan the third Pomodoro session in my free time
+1. Pomodoro session:
+    * Plan:
+        * 🚧 add next test case to test.js
+        * cover third case
+        * check for possible refactoring
+        * add next test case to test.js
+        * cover third case
+        * check for possible refactoring
+    * Commit log:
+    * Comment:
    
